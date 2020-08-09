@@ -2,7 +2,7 @@
 Basically, the main purpose of this web application is to generate a random password using numbers, special characters, lowercase and uppercase letters. Also, user must choose a number of characters between 8 and 128 which should include all four types of characters after some series of promts and confirmation. I tried to use all simple codes to run the application to generate a random new password based on user selected criteria. For this web application, 3 types of code applications were used- HTML, CSS & JS.
 
 ## Experience:
-This project helped me to learn more about JavaScript. Large part project includes Javascript following HTML and CSS. I get to learn JavaScipt variables, loops, alerts, confirms, prompts, etc. It took so long to understand the formula, loops and variable functionality. I definitely need more practice.
+This project helped me to learn more about JavaScript. Large part of project includes Javascript following HTML and CSS. I get to learn JavaScipt variables, loops, alerts, confirms, prompts, etc. It took me so long to understand the formula, loops and variable functionality. I definitely need more practice.
 
 ## Screenshot of deployed application (Before):
 ![image](https://user-images.githubusercontent.com/61192734/89724683-1f921300-d9bb-11ea-9b08-ae8e1842ec9d.png)
