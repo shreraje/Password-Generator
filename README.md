@@ -15,5 +15,5 @@ You are required to submit the following for review:
 ## The URL of the deployed application:
 https://shreraje.github.io/Password-Generator/
 
-## The URL of the GitHub repository. Give the repository a unique name and include a README describing the project:
-
+## The URL of the GitHub repository:
+https://github.com/shreraje/Password-Generator
